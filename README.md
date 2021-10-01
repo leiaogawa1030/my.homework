@@ -34,12 +34,12 @@ This site will be used as a digital personal planner for any homework I have. Ev
 
 
 #### Google Classroom Calendar Overview:
-![Image]![Screen Shot 2021-09-30 at 7 39 04 PM](https://user-images.githubusercontent.com/91555523/135558340-d0aaed00-8eca-41e2-bb6d-53a2b705e5fa.png)
+[Screen Shot 2021-09-30 at 7 39 04 PM](https://user-images.githubusercontent.com/91555523/135558340-d0aaed00-8eca-41e2-bb6d-53a2b705e5fa.png)
 
 
 ##### Random Stuff
 Since I don't have anymore images, here is a picture my dog took when he stepped on my phone :DDD
-![Image](![IMG-3906](https://user-images.githubusercontent.com/91555523/135558313-7015e03c-cd02-4877-8210-7ed3922f3bf4.jpg)
+[IMG-3906](https://user-images.githubusercontent.com/91555523/135558313-7015e03c-cd02-4877-8210-7ed3922f3bf4.jpg)
 
 
 Here is a link to another webpage...does it look familiar??
