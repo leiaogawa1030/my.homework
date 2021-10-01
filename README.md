@@ -35,7 +35,7 @@ This site will be used as a digital personal planner for any homework I have. Ev
 
 ##### Random Stuff
 Since I don't have anymore images, here is a picture my dog took when he stepped on my phone :DDD
-![Image]![IMG-3906](https://user-images.githubusercontent.com/91555523/135557818-536425b4-3c6f-4c4b-aee9-752560756b16.jpg)
+![Image]![IMG-3906]
 
 Here is a link to another webpage...does it look familiar??
 [Link](https://mrmarchant.com/)
