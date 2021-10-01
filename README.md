@@ -31,8 +31,9 @@ This site will be used as a digital personal planner for any homework I have. Ev
   2) Assignment: AP Classroom Unit II: Skill 1.B Videos 1-3 (Due Friday in class)
 
 #### Google Classroom Calendar Overview:
-![Image]![Screen Shot 2021-09-30 at 5 43 50 PM](https://user-images.githubusercontent.com/91555523/135557278-bcceb28e-120e-405d-85a0-58e832af9bdb.png)
+![Image](![Uploading Screen Shot 2021-09-30 at 7.39.04 PM.png…]))
 
+##### Random Stuff
 Since I don't have anymore images, here is a picture my dog took when he stepped on my phone :DDD
 ![Image]![IMG-3906](https://user-images.githubusercontent.com/91555523/135557818-536425b4-3c6f-4c4b-aee9-752560756b16.jpg)
 
